@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Airflot.RepositoryFlights">
+    <Position X="3.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIAAAAAgAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\RepositoryFlights.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="db" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.589" />
+  </Class>
+  <Class Name="Airflot.AppDbContext">
+    <Position X="5.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\AppDbContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Airflot.Form1">
+    <Position X="5.5" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAAAAQAASAAABAAAACAAABCIEg4AAAAEHQIAAAAAAQ=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_flights" />
+    </ShowAsAssociation>
+  </Class>
+  <Interface Name="Airflot.IFlights">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\IFlights.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
